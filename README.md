@@ -9,8 +9,8 @@ Just a hint, this is not a very easy task, and I'm not sure I would recommend yo
 
 ## Configuration
 
-| Specifications.     | Detail                                      | Mojave | Catalina |
-| ------------------- | ------------------------------------------- |        |          |
+| Specifications | Detail | Mojave | Catalina |
+| ------------------- | ------------------------------------------- | ------ | -------- |
 | Computer model      | MSI GE72 6QD Apache Pro                     |        |          |
 | CPU                 | Latest 6th Gen. Intel® Core™ i7 processor   |      X |          |
 | CHIPSET             | Intel® HM170                                |      X |          |
